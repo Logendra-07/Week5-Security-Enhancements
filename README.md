@@ -85,4 +85,4 @@ py -m pip_audit
 The project applies important Python application security practices, including password hashing, input validation, parameterized SQL queries, and dependency vulnerability checking. All 14 automated tests passed, and the final security scans reported no known issues.
 
 ## Author
-Logendra Prabhu V
+Logendra Prabhu V"# Week5-Security-Enhancements" 
